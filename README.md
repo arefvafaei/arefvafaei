@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br><br>Hello! I'm Aref, a passionate programmer and software engineer. My expertise lies in Back-end , and I'm always eager to learn new things.<br><br>Currently, I'm working at Back-end and looking for open-source projects to collaborate on and contribute to the developer community.<br><br>My skills include:<br>- Programming languages: Python , C, C#<br> - Frameworks and libraries: Pygame,  Tkinter, Django<br>- Tools and technologies: T-SQL, <br><br>Feel free to reach out if you're interested in collaborating or have any questions!<br><br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arefCTZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aref.vafaei.codm@gmail.com) 
 
